@@ -1,0 +1,9 @@
+Please add the following images to this directory:
+1. wc-final-2023.jpg
+2. ind-eng-test-2024.jpg
+3. aus-wi-t20-2024.jpg
+4. pak-nz-odi-2024.jpg
+5. sa-sl-test-2023.jpg
+6. ipl-final-2023.jpg
+
+These should be high-quality images of the respective cricket matches. 
